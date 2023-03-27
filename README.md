@@ -3,7 +3,6 @@
 <div align="center">
 <a href="https://gifyu.com/image/SIWWm"><img hight="300" width="700" align="center" src="https://s2.gifyu.com/images/1_KEcGysVAlWoJA8U_FoUzrg.png" alt="1_KEcGysVAlWoJA8U_FoUzrg.png" border="0" /></a>
 </div>
-</br>
 
 (Привет, меня зовут Анастасия!
 Я ищу компанию для старта
@@ -15,8 +14,6 @@
   + [Timer on Kotlin in Android studio](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/m3_components) (Таймер на Kotlin в Android studio)
   + [QIZ application( version 1.0 ) on Kotlin in Android studio](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/m7_quiz_fragments) (QIZ приложение ( версия 1.0) на Kotlin в Android studio)
   + [Add words to the database on Kotlin in Android studio](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/WordDAO_Room) (Добавление слов в базу данных на Kotlin в Android studio) 
-   
-  </br>
   
 + My test projects (Мои тестовые проекты):
   + [My first test assignment](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/EcommerceConcept) (Мое первое тестовое задание на Kotlin в Android studio)
@@ -44,7 +41,8 @@ var blinovaAnastasia by androidDeveloper {
     }
 }
 ```
-
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/anastasiblinoval)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/anastasia_487)
 
 
 
