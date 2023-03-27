@@ -61,6 +61,7 @@ var blinovaAnastasia by androidDeveloper {
 </ul>
 </br>
 ## Курсы, сертификаты, дипломы:
+## Курсы
 
 + [2023, Stepik. Разработка мобильных приложений для Android](https://stepik.org/cert/1927878)
 + [2023, Основы SQL от Mathshub](https://drive.google.com/file/d/11yxvMcs6JUNpcGBxbvhwgWJP1y3wNv3T/view)
