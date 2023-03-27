@@ -47,6 +47,14 @@ var blinovaAnastasia by androidDeveloper {
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/anastasiblinoval)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/anastasia_487)
 
+Курсы, сертификаты, дипломы:
+
++ [2023, Stepik. Разработка мобильных приложений для Android](https://stepik.org/cert/1927878)
++ [2023, Основы SQL от Mathshub](https://drive.google.com/file/d/11yxvMcs6JUNpcGBxbvhwgWJP1y3wNv3T/view)
++ [2023, Нетология. Основы SQL](https://netology.ru/sharing/1c6f0b04e73490c60d03d7c69e5d4801?utm_source=social&utm_campaign=achievements)
++ [2023, Разработка мобильных приложений с нуля](https://netology.ru/sharing/7ce05a19df70da034d120b359caafb9f?utm_source=social&utm_campaign=achievements)
+
+
 <!--
 **AnastasiaBlinova/AnastasiaBlinova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Мои контакты:
