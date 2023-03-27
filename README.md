@@ -43,7 +43,7 @@ var blinovaAnastasia by androidDeveloper {
 ```
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/anastasiblinoval)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/anastasia_487)
-[![Instagram](<a href="https://gifyu.com/image/SIW0E"><img hight="300" width="100" src="https://s2.gifyu.com/images/1520166070wby81Im_hLOLbJQ4y5Eh547QuJNpfQn7.jpg" alt="1520166070wby81Im_hLOLbJQ4y5Eh547QuJNpfQn7.jpg" border="0" /></a>)](https://www.instagram.com/anastasiblinova)
+[![Instagram](<a href="https://gifyu.com/image/SIW0E"><img hight="300" width="100" src="https://s2.gifyu.com/images/1520166070wby81Im_hLOLbJQ4y5Eh547QuJNpfQn7.jpg" alt="1520166070wby81Im_hLOLbJQ4y5Eh547QuJNpfQn7.jpg" border="0" />)](https://www.instagram.com/anastasiblinova</a>)
 
 <!--
 **AnastasiaBlinova/AnastasiaBlinova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
