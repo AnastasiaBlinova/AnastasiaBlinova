@@ -11,7 +11,7 @@
 
 + My learning projects (Мои учебные проекты):
 
-  + [Load random users from API](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/m14_retrofit__) (Загрузка случайных пользователей из API)
+  + [Load random users from API on Kotlin in Android studio](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/m14_retrofit__) (Загрузка случайных пользователей из API на Kotlin в Android studio)
   + [Add words to the database on Kotlin in Android studio](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/WordDAO_Room) (Добавление слов в базу данных на Kotlin в Android studio) 
   + [QIZ application( version 1.0 ) on Kotlin in Android studio](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/m7_quiz_fragments) (QIZ приложение ( версия 1.0) на Kotlin в Android studio)
   + [Timer on Kotlin in Android studio](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/m3_components) (Таймер на Kotlin в Android studio)
