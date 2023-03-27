@@ -41,13 +41,18 @@ var blinovaAnastasia by androidDeveloper {
     }
 }
 ```
+
+
 [![Hh](https://jobers.ru/wp-content/uploads/2022/11/tariff-1.png.webp)](https://krasnodar.hh.ru/applicant/resumes/view?resume=662e54d7ff0b502afe0039ed1f59524c4f3968)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/anastasiblinoval)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/anastasia_487)
 
 <!--
 **AnastasiaBlinova/AnastasiaBlinova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Мои контакты:
++ Mob: +79037351403
++ Telegram:  [Anastasia](https://t.me/anastasiblinoval)
++ Email: nastya.com107@gmail.com
 Here are some ideas to get you started:
 [![Instagram](<a href="https://gifyu.com/image/SIW0E"><img hight="300" width="100" src="https://s2.gifyu.com/images/1520166070wby81Im_hLOLbJQ4y5Eh547QuJNpfQn7.jpg" alt="1520166070wby81Im_hLOLbJQ4y5Eh547QuJNpfQn7.jpg" border="0" />)](https://www.instagram.com/anastasiblinova</a>)
 
