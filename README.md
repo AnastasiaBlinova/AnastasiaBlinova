@@ -1,4 +1,5 @@
 ### Hello, my name is Anastasia! 👋
+<div align="center">
 <a href="https://gifyu.com/image/SIWWm"><img hight="300" width="700" align="center" src="https://s2.gifyu.com/images/1_KEcGysVAlWoJA8U_FoUzrg.png" alt="1_KEcGysVAlWoJA8U_FoUzrg.png" border="0" /></a>
 ### I'm looking for a company to start an Android-developer career.
 
