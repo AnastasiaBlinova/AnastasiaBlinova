@@ -46,7 +46,7 @@ var blinovaAnastasia by androidDeveloper {
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/anastasia_487)
 </br>
 # Stack 🛠:
-
+<ul>
 <li>Kotlin, Android SDK</li>
 <li>Presentations patterns- MVC, MVP, MVVM, MVI</li>
 <li>Android Application Components (some)  </li>
@@ -58,10 +58,11 @@ var blinovaAnastasia by androidDeveloper {
 <li>Dependency Injection -> Dagger 2, Hilt</li>
 <li>Local Storage -> SQLite, Room, SharedPrefernces</li>
 <li>Network -> Retrofit</li>
-
+</ul>
 </br>
 ## Курсы, сертификаты, дипломы:
 ## Курсы
+### Hello, my name is Anastasia! 👋
 
 + [2023, Stepik. Разработка мобильных приложений для Android](https://stepik.org/cert/1927878)
 + [2023, Основы SQL от Mathshub](https://drive.google.com/file/d/11yxvMcs6JUNpcGBxbvhwgWJP1y3wNv3T/view)
