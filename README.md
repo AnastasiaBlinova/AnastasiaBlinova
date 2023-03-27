@@ -46,7 +46,7 @@ var blinovaAnastasia by androidDeveloper {
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/anastasia_487)
 </br>
 # Stack 🛠:
-<ul>
+
 <li>Kotlin, Android SDK</li>
 <li>Presentations patterns- MVC, MVP, MVVM, MVI</li>
 <li>Android Application Components (some)  </li>
@@ -58,7 +58,7 @@ var blinovaAnastasia by androidDeveloper {
 <li>Dependency Injection -> Dagger 2, Hilt</li>
 <li>Local Storage -> SQLite, Room, SharedPrefernces</li>
 <li>Network -> Retrofit</li>
-</ul>
+
 </br>
 ## Курсы, сертификаты, дипломы:
 ## Курсы
