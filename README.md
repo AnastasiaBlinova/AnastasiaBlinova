@@ -1,10 +1,9 @@
 ### Hello, my name is Anastasia! 👋
+### I'm looking for a company to start an Android-developer career.
 <div align="center">
 <a href="https://gifyu.com/image/SIWWm"><img hight="300" width="700" align="center" src="https://s2.gifyu.com/images/1_KEcGysVAlWoJA8U_FoUzrg.png" alt="1_KEcGysVAlWoJA8U_FoUzrg.png" border="0" /></a>
 </div>
 </br>
-</br>
-### I'm looking for a company to start an Android-developer career.
 
 (Привет, меня зовут Анастасия!
 Я ищу компанию для старта
@@ -24,7 +23,7 @@
   + [My second test assignment](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/TestCARD) (Мое второе тестовое задание на Kotlin в Android studio) 
 
 # About ME 💬 :
-<a href="https://gifyu.com/image/SIWcn"><img hight="200" width="100" align="right" src="https://s2.gifyu.com/images/VakAE.gif" alt="VakAE.gif" border="0" /></a>
+<a href="https://gifyu.com/image/SIWcn"><img hight="300" width="100" align="right" src="https://s2.gifyu.com/images/VakAE.gif" alt="VakAE.gif" border="0" /></a>
 
 ```kotlin
 val blinovaAnastasia by androidDeveloper {
