@@ -22,18 +22,17 @@
   + [My first test assignment](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/EcommerceConcept) (Мое первое тестовое задание на Kotlin в Android studio)
   + [My second test assignment](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/TestCARD) (Мое второе тестовое задание на Kotlin в Android studio) 
 
-#  <a href="https://gifyu.com/image/SIWcn"><img hight="300" width="100" src="https://s2.gifyu.com/images/VakAE.gif" alt="VakAE.gif" border="0" /></a>   About ME 💬 :
+#About ME 💬 :    <a href="https://gifyu.com/image/SIWcn"><img hight="300" width="100" src="https://s2.gifyu.com/images/VakAE.gif" alt="VakAE.gif" border="0" /></a>   
 </br>
 
-
 ```kotlin
-val blinovaAnastasia by androidDeveloper {
-    fullName = "Blinova Anastasia"
-    citizenship = "Russian"            // Гражданство - Россия
-    birthdate = "19.11.1999"           // Дата рождения - 19.11.1999
-    timezone = "GMT+7"                 // Часовой пояс 
-    city = "Krasnodar"
-    languages = [ "Russian", "English"]
+var blinovaAnastasia by androidDeveloper {
+    fullName = "Blinova Anastasia Valerievna"      //Полное имя - Блинова Анастасия Валерьевна
+    birthdate = "19.11.1999"                       // Дата рождения - 19.11.1999
+    citizenship = "Russian"                        // Гражданство - Россия
+    city = "Krasnodar"                             // Город - Краснодар   
+    timezone = "GMT+3"                             // Часовой пояс 
+    languages = [ "Russian", "English"]            // Языки - Русский, Английский 
     
     contacts {
         telegram(username = "@anastasiblinova")
@@ -41,8 +40,7 @@ val blinovaAnastasia by androidDeveloper {
     }
     
     resume {
-        habrCareer(url = "https://career.habr.com/meh-daniel")
-        github(url = "https://github.com/meh-daniel")
+        github(url = "https://krasnodar.hh.ru/applicant/resumes/view?resume=662e54d7ff0b502afe0039ed1f59524c4f3968")
     }
 }
 ```
@@ -52,7 +50,7 @@ val blinovaAnastasia by androidDeveloper {
 
 <!--
 **AnastasiaBlinova/AnastasiaBlinova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<div align="center">
+
 Here are some ideas to get you started:
 
 
