@@ -59,7 +59,7 @@ var blinovaAnastasia by androidDeveloper {
 <li>Local Storage -> SQLite, Room, SharedPrefernces</li>
 <li>Network -> Retrofit</li>
 </ul>
-Курсы, сертификаты, дипломы:
+### Курсы, сертификаты, дипломы:
 
 + [2023, Stepik. Разработка мобильных приложений для Android](https://stepik.org/cert/1927878)
 + [2023, Основы SQL от Mathshub](https://drive.google.com/file/d/11yxvMcs6JUNpcGBxbvhwgWJP1y3wNv3T/view)
