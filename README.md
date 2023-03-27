@@ -22,7 +22,7 @@
   + [My first test assignment](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/EcommerceConcept) (Мое первое тестовое задание на Kotlin в Android studio)
   + [My second test assignment](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/TestCARD) (Мое второе тестовое задание на Kotlin в Android studio) 
 
-# About ME 💬 : <a href="https://gifyu.com/image/SIWcn"><img hight="300" width="100" align="right" src="https://s2.gifyu.com/images/VakAE.gif" alt="VakAE.gif" border="0" /></a>
+# About ME 💬 : <a href="https://gifyu.com/image/SIWcn"><img hight="300" width="100" align="right" src="https://s2.gifyu.com/images/VakAE.gif" alt="VakAE.gif" border="0" /></a> gg
 </br>
 
 
