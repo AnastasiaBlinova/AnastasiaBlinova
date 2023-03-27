@@ -22,7 +22,29 @@
 
 # About ME 💬 :
 <a href="https://gifyu.com/image/SIWcn"><img hight="400" width="500" align="right" src="https://s2.gifyu.com/images/VakAE.gif" alt="VakAE.gif" border="0" /></a>
-<a href="https://gifyu.com/image/SIWWm">< img hight="400" width="500" align="right" src="https://s2.gifyu.com/images/VakAE.gif"  border="0"></a>
+
+```kotlin
+val blinovaAnastasia by androidDeveloper {
+    fullName = "Blinova Anastasia"
+    citizenship = "Russian"            // Гражданство - Россия
+    birthdate = "19.11.1999"           // Дата рождения - 19.11.1999
+    timezone = "GMT+7"                 // Часовой пояс 
+    city = "Krasnodar"
+    languages = [ "Russian", "English"]
+    
+    contacts {
+        telegram(username = "@anastasiblinova")
+        email(address = "nastya.com107@gmail.com")
+    }
+    
+    resume {
+        habrCareer(url = "https://career.habr.com/meh-daniel")
+        github(url = "https://github.com/meh-daniel")
+    }
+}
+```
+
+
 
 
 <!--
