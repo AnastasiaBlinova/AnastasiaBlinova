@@ -1,6 +1,7 @@
 ### Hello, my name is Anastasia! 👋
-
-<a href="https://gifyu.com/image/SIWWm"><img hight="300" width="700" align="center" src="https://s2.gifyu.com/images/1_KEcGysVAlWoJA8U_FoUzrg.png" alt="1_KEcGysVAlWoJA8U_FoUzrg.png" border="0" /><div align="center"></a>
+<div align="center">
+<a href="https://gifyu.com/image/SIWWm"><img hight="300" width="700" align="center" src="https://s2.gifyu.com/images/1_KEcGysVAlWoJA8U_FoUzrg.png" alt="1_KEcGysVAlWoJA8U_FoUzrg.png" border="0" /></a>
+</div>
 ### I'm looking for a company to start an Android-developer career.
 
 (Привет, меня зовут Анастасия!
@@ -49,8 +50,9 @@ val blinovaAnastasia by androidDeveloper {
 
 <!--
 **AnastasiaBlinova/AnastasiaBlinova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<div align="center">
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
