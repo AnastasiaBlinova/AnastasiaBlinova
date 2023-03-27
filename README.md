@@ -21,7 +21,7 @@
   + [My second test assignment](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/TestCARD) (Мое второе тестовое задание на Kotlin в Android studio) 
 
 # About ME 💬 :
-< img hight="400" width="500" align="right" alt="GIF" src="https://gifyu.com/image/SIWcn"><img src="https://s2.gifyu.com/images/VakAE.gif" alt="VakAE.gif" border="0" /></a>
+< img hight="400" width="500" align="right" alt="GIF"  src="https://s2.gifyu.com/images/VakAE.gif" alt="VakAE.gif" border="0" /></a>
 
 
 <!--
