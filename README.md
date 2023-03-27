@@ -61,8 +61,7 @@ var blinovaAnastasia by androidDeveloper {
 </ul>
 </br>
 ## Курсы, сертификаты, дипломы:
-## Курсы
-### Hello, my name is Anastasia! 👋
+
 
 + [2023, Stepik. Разработка мобильных приложений для Android](https://stepik.org/cert/1927878)
 + [2023, Основы SQL от Mathshub](https://drive.google.com/file/d/11yxvMcs6JUNpcGBxbvhwgWJP1y3wNv3T/view)
@@ -71,21 +70,5 @@ var blinovaAnastasia by androidDeveloper {
 
 
 <!--
-**AnastasiaBlinova/AnastasiaBlinova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Мои контакты:
-+ Mob: +79037351403
-+ Telegram:  [Anastasia](https://t.me/anastasiblinoval)
-+ Email: nastya.com107@gmail.com
-Here are some ideas to get you started:
-[![Instagram](<a href="https://gifyu.com/image/SIW0E"><img hight="300" width="100" src="https://s2.gifyu.com/images/1520166070wby81Im_hLOLbJQ4y5Eh547QuJNpfQn7.jpg" alt="1520166070wby81Im_hLOLbJQ4y5Eh547QuJNpfQn7.jpg" border="0" />)](https://www.instagram.com/anastasiblinova</a>)
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
