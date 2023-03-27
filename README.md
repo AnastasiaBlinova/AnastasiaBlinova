@@ -7,7 +7,6 @@
 карьеры Android-разработчика.)
 
 </br>
-</br>
 
 + My learning projects (Мои учебные проекты):
   + [Timer on Kotlin in Android studio](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/m3_components) (Таймер на Kotlin в Android studio)
@@ -21,7 +20,7 @@
   + [My second test assignment](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/TestCARD) (Мое второе тестовое задание на Kotlin в Android studio) 
 
 # About ME 💬 :
-<a href="https://gifyu.com/image/SIWcn"><img hight="400" width="500" align="right" src="https://s2.gifyu.com/images/VakAE.gif" alt="VakAE.gif" border="0" /></a>
+<a href="https://gifyu.com/image/SIWcn"><img hight="200" width="100" align="right" src="https://s2.gifyu.com/images/VakAE.gif" alt="VakAE.gif" border="0" /></a>
 
 ```kotlin
 val blinovaAnastasia by androidDeveloper {
