@@ -45,7 +45,7 @@ var blinovaAnastasia by androidDeveloper {
 [![Hh](https://jobers.ru/wp-content/uploads/2022/11/tariff-1.png.webp)](https://krasnodar.hh.ru/applicant/resumes/view?resume=662e54d7ff0b502afe0039ed1f59524c4f3968)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/anastasiblinoval)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/anastasia_487)
-</div>
+
 Курсы, сертификаты, дипломы:
 
 + [2023, Stepik. Разработка мобильных приложений для Android](https://stepik.org/cert/1927878)
