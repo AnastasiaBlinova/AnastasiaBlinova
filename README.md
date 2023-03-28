@@ -54,11 +54,10 @@ var blinovaAnastasia by androidDeveloper {
 <li>Kotlin, Android SDK, Android studio</li>
 <li>Presentations patterns: MVP, MVVM</li>
 <li>Android Application Components (some)  </li>
-<li>Android Jetpack Architecture: View Binding, LiveData, Lifecycles, ViewModel, Navigation, Room</li>
 <li>Material Design and Components</li>
 <li>Clean Architecture</li>
 <li>Reactive programming: Coroutines+Flow, Thread, WorkManager</li>
-<li>Image Loading: Glide, Coil, Picasso, Fresco(a bit)</li>
+<li>Image Loading: Glide, Coil, Picasso, Lotte</li>
 <li>Dependency Injection: Dagger 2, Hilt</li>
 <li>Local Storage: SQLite, Room, SharedPrefernces</li>
 <li>Network: Retrofit</li>
@@ -75,4 +74,5 @@ var blinovaAnastasia by androidDeveloper {
 
 <!--
 
+<li>Android Jetpack Architecture: View Binding, LiveData, Lifecycles, ViewModel, Navigation, Room</li>
 -->
