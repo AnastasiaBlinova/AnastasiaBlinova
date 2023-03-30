@@ -11,6 +11,8 @@
 
 + My learning projects (Мои учебные проекты):
 
+   + [Load random action from API a using Hilt on Kotlin in Android studio](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/m16_architecture_Hilt) (Загрузка случайных действий из API, используя Hilt на Kotlin в Android studio)
+   + + [Load random action from API a using Dagger on Kotlin in Android studio](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/m16_architecture_Dagger) (Загрузка случайных действий из API, используя Dagger на Kotlin в Android studio)
   + [Load random users from API on Kotlin in Android studio](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/m14_retrofit__) (Загрузка случайных пользователей из API на Kotlin в Android studio)
   + [Add words to the database on Kotlin in Android studio](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/WordDAO_Room) (Добавление слов в базу данных на Kotlin в Android studio) 
   + [QIZ application( version 1.0 ) on Kotlin in Android studio](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/m7_quiz_fragments) (QIZ приложение ( версия 1.0) на Kotlin в Android studio)
