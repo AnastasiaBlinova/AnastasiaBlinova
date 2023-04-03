@@ -23,6 +23,7 @@
 + My test projects (Мои тестовые проекты):
   + [My first test assignment](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/EcommerceConcept) (Мое первое тестовое задание на Kotlin в Android studio)
   + [My second test assignment](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/TestCARD) (Мое второе тестовое задание на Kotlin в Android studio) 
+  + [My therd test assignment](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/BreathRetention) (Мое третье тестовое задание на Kotlin в Android studio) 
 
 ## About ME 💬 :    <a href="https://gifyu.com/image/SIWcn"><img hight="300" width="100" src="https://s2.gifyu.com/images/VakAE.gif" alt="VakAE.gif" border="0" /></a>   
 </br>
