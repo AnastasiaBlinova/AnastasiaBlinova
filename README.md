@@ -10,6 +10,10 @@
 </br>
 
 + My learning projects (Мои учебные проекты):
+  + [Add words to the database on Kotlin in Android studio](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/WordDAO_Room) (Добавление слов в базу данных на Kotlin в Android studio)
+  + [Add words to the database on Kotlin in Android studio](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/WordDAO_Room) (Добавление слов в базу данных на Kotlin в Android studio)  
+  
++ My pet project (Мои pet проекты):
 
   + [Load random action from API a using Hilt on Kotlin in Android studio](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/m16_architecture_Hilt) (Загрузка случайных действий из API, используя Hilt на Kotlin в Android studio)
   + [Load random action from API a using Dagger on Kotlin in Android studio](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/m16_architecture_Dagger) (Загрузка случайных действий из API, используя Dagger на Kotlin в Android studio)
