@@ -10,8 +10,8 @@
 </br>
 
 + My learning projects (Мои учебные проекты):
-  + [My first learning projects on Kotlin in Android studio](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/WordDAO_Room) (Мое первое учебное приложение на Kotlin в Android studio)
-  + [My second learning projects on Kotlin in Android studio](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/WordDAO_Room) (Мое второе учебное приложение на Kotlin в Android studio)  
+  + [My first learning projects on Kotlin in Android studio]() (Мое первое учебное приложение на Kotlin в Android studio)
+  + [My second learning projects on Kotlin in Android studio]() (Мое второе учебное приложение на Kotlin в Android studio)  
   
 + My pet projects (Мои pet проекты):
 
