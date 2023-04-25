@@ -9,10 +9,6 @@
 
 </br>
 
-+ My learning projects (Мои учебные проекты):
-  + [My first learning projects on Kotlin in Android studio]() (Мое первое учебное приложение на Kotlin в Android studio)
-  + [My second learning projects on Kotlin in Android studio]() (Мое второе учебное приложение на Kotlin в Android studio)  
-  
 + My pet projects (Мои pet проекты):
 
   + [Load random action from API a using Hilt on Kotlin in Android studio](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/m16_architecture_Hilt) (Загрузка случайных действий из API, используя Hilt на Kotlin в Android studio)
@@ -79,6 +75,11 @@ var blinovaAnastasia by androidDeveloper {
 
 
 <!--
+
++ My learning projects (Мои учебные проекты):
+  + [My first learning projects on Kotlin in Android studio]() (Мое первое учебное приложение на Kotlin в Android studio)
+  + [My second learning projects on Kotlin in Android studio]() (Мое второе учебное приложение на Kotlin в Android studio)  
+  
 , WorkManager
 <li>Android Application Components (some) </li>
 <li>Clean Architecture</li>
