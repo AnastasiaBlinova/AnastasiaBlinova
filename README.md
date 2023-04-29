@@ -31,11 +31,11 @@
 ```kotlin
 var blinovaAnastasia by androidDeveloper {
     fullName = "Blinova Anastasia Valerievna"      //Полное имя - Блинова Анастасия Валерьевна
-    birthdate = "19.11.1999"                       // Дата рождения - 19.11.1999
-    citizenship = "Russian"                        // Гражданство - Россия
+    birthdate = "19.11.1999"                       // Дата рождения: 19.11.1999
+    citizenship = "Russian"                        // Гражданство: Россия
     city = "Krasnodar"                             // Город - Краснодар   
     timezone = "GMT+3"                             // Часовой пояс 
-    languages = [ "Russian", "English"]            // Языки - Русский, Английский 
+    languages = [ "Russian", "English"]            // Языки: Русский, Английский 
     
     contacts {
         telegram(username = "@anastasiblinova")
