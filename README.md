@@ -26,8 +26,8 @@
   + [My fourth test assignment](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/ToDoCalendar) (Мое четвертое тестовое задание на Kotlin в Android studio)
   
  + My learning projects (Мои учебные проекты):
-  + [My first learning projects on Kotlin in Android studio]() (Мое первое учебное приложение на Kotlin в Android studio)
-  + [My second learning projects on Kotlin in Android studio](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/LabOne_) (Мое второе учебное приложение на Kotlin в Android studio)  
+   + [My first learning projects on Kotlin in Android studio]() (Мое первое учебное приложение на Kotlin в Android studio)
+   + [My second learning projects on Kotlin in Android studio](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/LabOne_) (Мое второе учебное приложение на Kotlin в Android studio)  
 
 ## About ME 💬 :    <a href="https://gifyu.com/image/SIWcn"><img hight="300" width="100" src="https://s2.gifyu.com/images/VakAE.gif" alt="VakAE.gif" border="0" /></a>   
 </br>
