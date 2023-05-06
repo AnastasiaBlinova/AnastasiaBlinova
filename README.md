@@ -68,7 +68,6 @@ var blinovaAnastasia by androidDeveloper {
 <li>Network: Retrofit</li>
 </ul>
 </br>
-
 + Курсы, сертификаты, дипломы:
 
 
