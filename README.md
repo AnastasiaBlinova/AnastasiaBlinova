@@ -75,7 +75,7 @@ var blinovaAnastasia by androidDeveloper {
   + [2023, Нетология. Основы SQL](https://netology.ru/sharing/1c6f0b04e73490c60d03d7c69e5d4801?utm_source=social&utm_campaign=achievements)
   + [2023, Stepik. Разработка мобильных приложений для Android](https://stepik.org/cert/1927878)
   + [2023, Нетология. Разработка мобильных приложений с нуля](https://netology.ru/sharing/7ce05a19df70da034d120b359caafb9f?utm_source=social&utm_campaign=achievements)
-https://mail.google.com/mail/u/0/#search/диплом/FMfcgzGllMGkTCGKrNpjxWdlxgXKsdvW?projector=1&messagePartId=0.1
+https://drive.google.com/drive/folders/1UyP08d8QnvlwjbZcwUR_7HCv0t-nAS-q?usp=sharing
 
 <!--
 
