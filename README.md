@@ -3,6 +3,7 @@
 <div align="center">
 <a href="https://gifyu.com/image/SIWWm"><img hight="300" width="700" align="center" src="https://s2.gifyu.com/images/1_KEcGysVAlWoJA8U_FoUzrg.png" alt="1_KEcGysVAlWoJA8U_FoUzrg.png" border="0" /></a>
 </div>
+
 (Привет, меня зовут Анастасия!
 Я ищу компанию для старта
 карьеры Android-разработчика.)
