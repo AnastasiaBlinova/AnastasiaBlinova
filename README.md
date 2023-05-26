@@ -8,7 +8,6 @@
 Я ищу компанию для старта
 карьеры Android-разработчика.)
 </br>
-
 + My pet projects (Мои собственные проекты):
 
   + [Load random action from API a using Hilt on Kotlin in Android studio](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/m16_architecture_Hilt) (Загрузка случайных действий из API, используя Hilt на Kotlin в Android studio)
