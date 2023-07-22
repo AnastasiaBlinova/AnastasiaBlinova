@@ -24,7 +24,7 @@
   + [My therd test assignment](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/BreathRetention) (Мое третье тестовое задание на Kotlin в Android studio) 
   + [My fourth test assignment](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/ToDoCalendar) (Мое четвертое тестовое задание на Kotlin в Android studio)
   
- + My learning projects (Мои учебные проекты):
+ + My learning projects at the university (Мои учебные проекты):
    + [My first learning projects on Kotlin in Android studio](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/ApplicationOne_) (Мое первое учебное приложение на Kotlin в Android studio)
    + [My second learning projects on Kotlin in Android studio](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/LabOne_) (Мое второе учебное приложение на Kotlin в Android studio)
    + [My third learning projects on Kotlin in Android studio](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/AquaCube) (Мое третье учебное приложение на Kotlin в Android studio)
