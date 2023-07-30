@@ -77,7 +77,7 @@ var blinovaAnastasia by androidDeveloper {
   + [2023, Stepik. Разработка мобильных приложений для Android](https://stepik.org/cert/1927878)
   + [2023, Нетология. Разработка мобильных приложений с нуля](https://netology.ru/sharing/7ce05a19df70da034d120b359caafb9f?utm_source=social&utm_campaign=achievements)
   + [2021, Mobile DemoDay от SimbirSoft в
-Краснодаре](https://drive.google.com/file/d/1tVmFt18lWYdFPUZTuKAHrqUAOU7luI3M/view?usp=sharing)
+Краснодаре](https://drive.google.com/file/d/1tVmFt18lWYdFPUZTuKAHrqUAOU7luI3M/view?usp=sharing) 
 
 
 <!--
