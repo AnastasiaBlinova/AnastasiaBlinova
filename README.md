@@ -11,12 +11,14 @@
 + My pet projects (Мои собственные проекты):
 
   + [Load photo sputnik on Kotlin in Android studio](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/m17_recyclerview) (Загрузка фотографий спутника на Kotlin в Android studio)
+  + [Photo gallery + camera](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/m18_permissions) (Фото галерея + камера)
+  + [QIZ application( version 4.0 ) on Kotlin in Android studio](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/m9_quiz_location) ( Qiz - приложение, из 3 - х фрагментов с анимацией и опцией календаря)
   + [Load random action from API a using Hilt on Kotlin in Android studio](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/m16_architecture_Hilt) (Загрузка случайных действий из API, используя Hilt на Kotlin в Android studio)
   + [Load random action from API a using Dagger on Kotlin in Android studio](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/m16_architecture_Dagger) (Загрузка случайных действий из API, используя Dagger на Kotlin в Android studio)
   + [Add words to the database on Kotlin in Android studio](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/WordDAO_Room) (Добавление слов в базу данных на Kotlin в Android studio) 
   + [Load random users from API on Kotlin in Android studio](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/m14_retrofit__) (Загрузка случайных пользователей из API на Kotlin в Android studio)
   + [Timer on Kotlin in Android studio ( version 2.0 )](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/m10_timer_life_cycle) ( Приложение - таймер, отсчет времени продолжается после смены ориентации экрана)
-  + [QIZ application( version 4.0 ) on Kotlin in Android studio](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/m9_quiz_location) ( Qiz - приложение, из 3 - х фрагментов с анимацией и опцией календаря)
+ 
   + [QIZ application( version 1.0 ) on Kotlin in Android studio](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/m7_quiz_fragments) (QIZ приложение ( версия 1.0) на Kotlin в Android studio)
   + [Timer on Kotlin in Android studio ( version 1.0 )](https://github.com/AnastasiaBlinova/ProjectKotlin/tree/main/m3_components) (Таймер на Kotlin в Android studio)
  
